@@ -1,14 +1,20 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-final-bs-project`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/1HipmKhThN4dE6Vtf_CdxWJFupfN_2XqU
+## Papers
 
-## Available Source Buckets
+- `papers/ProposalEGL310.docx`
+- `papers/ProposalEGL310.pdf`
 
-- `papers/`: 2 file(s)
-- `reports/`: 8 file(s)
+## Reports
 
-## Notes
-
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+- `reports/Design Project.docx`
+- `reports/EGL-310 Assignment 6.pdf`
+- `reports/EGL-310 ASSIGNMENT6.doc`
+- `reports/Final Project Report USE.docx`
+- `reports/REPORT SPECIFICATIONS.docx`
+- `reports/software part.docx`
+- `reports/Updated Report.doc`
+- `reports/Xbee_part4/project_config.h`
